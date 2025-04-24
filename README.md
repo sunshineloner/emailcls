@@ -62,6 +62,8 @@ pip install -r requirements.txt
 3. Run the classifier:
 ```bash
 python src/main.py
+
+python -m src.main
 ```
 
 ## Model Architecture
